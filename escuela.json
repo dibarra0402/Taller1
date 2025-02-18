@@ -1,0 +1,73 @@
+{
+  "escuela": "Escuela Secundaria XYZ",
+  "direccion": {
+    "calle": "Av. Siempre Viva 123",
+    "ciudad": "Ciudad Ejemplo",
+    "pais": "País Ejemplo"
+  },
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "edad": 14,
+      "grado": "8vo",
+      "materias": [
+        {
+          "nombre": "Matemáticas",
+          "calificacion": 8.5
+        },
+        {
+          "nombre": "Ciencias",
+          "calificacion": 9.0
+        },
+        {
+          "nombre": "Historia",
+          "calificacion": 7.5
+        }
+      ],
+      "promedio": 8.33
+    },
+    {
+      "id": 2,
+      "nombre": "María Gómez",
+      "edad": 15,
+      "grado": "9no",
+      "materias": [
+        {
+          "nombre": "Matemáticas",
+          "calificacion": 9.2
+        },
+        {
+          "nombre": "Ciencias",
+          "calificacion": 8.7
+        },
+        {
+          "nombre": "Historia",
+          "calificacion": 9.5
+        }
+      ],
+      "promedio": 9.13
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos López",
+      "edad": 13,
+      "grado": "7mo",
+      "materias": [
+        {
+          "nombre": "Matemáticas",
+          "calificacion": 7.0
+        },
+        {
+          "nombre": "Ciencias",
+          "calificacion": 6.5
+        },
+        {
+          "nombre": "Historia",
+          "calificacion": 8.0
+        }
+      ],
+      "promedio": 7.17
+    }
+  ]
+}
